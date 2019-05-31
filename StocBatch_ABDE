@@ -1,0 +1,8 @@
+nohup java -jar StocMeshMorphMol.jar ModelA_sp_0.5um.out-4tr-conc.txt ModelA_sp_0.5um.out-mesh.txt NewA_sp cAMP,PKAc,Ip35PP1,PKAcPDE4B,PKAcPDE4D,CKpCaMCa4,CKp,PP1,GluR1_S845,GluR1_S831,pPDE4B,pPDE4D
+
+nohup java -jar StocMeshMorphMol.jar ModelB_sp_0.5um.out-4tr-conc.txt ModelB_sp_0.5um.out-mesh.txt NewB_sp cAMP,PKAc,Ip35PP1,PKAcPDE4B,PKAcPDE4D,CKpCaMCa4,CKp,PP1,GluR1_S845,GluR1_S831,pPDE4B,pPDE4D
+
+nohup java -jar StocMeshMorphMol.jar ModelD_sp_0.5um.out-4tr-conc.txt ModelD_sp_0.5um.out-mesh.txt NewD_sp cAMP,PKAc,Ip35PP1,PKAcPDE4B,PKAcPDE4D,CKpCaMCa4,CKp,PP1,GluR1_S845,GluR1_S831,pPDE4B,pPDE4D
+
+nohup java -jar StocMeshMorphMol.jar ModelE_sp_0.5um.out-4tr-conc.txt ModelE_sp_0.5um.out-mesh.txt NewE_sp cAMP,PKAc,Ip35PP1,PKAcPDE4B,PKAcPDE4D,CKpCaMCa4,CKp,PP1,GluR1_S845,GluR1_S831,pPDE4B,pPDE4D
+
